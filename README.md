@@ -13,7 +13,7 @@ make sure to activate the virtual env by doing this:
  source ~/tensorflow/bin/activate
  
 Install cv2
-http://www.pyimagesearch.com/2015/06/15/install-opencv-3-0-and-python-2-7-on-osx/
+http://www.mobileway.net/2015/02/14/install-opencv-for-python-on-mac-os-x/
 Only change the opencv install command to this:
 brew install homebrew/science/opencv
 
