@@ -12,4 +12,7 @@ The above link actually installs everything python related too.
 Install cv2
 
 http://www.pyimagesearch.com/2015/06/15/install-opencv-3-0-and-python-2-7-on-osx/
+Only change the opencv install command to this:
+brew install homebrew/science/opencv
+
 
